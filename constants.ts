@@ -40,7 +40,8 @@ export const PROJECTS: Project[] = [
     description: "An interactive voice bot powered by LLMs to conduct mock interviews and provide real-time feedback.",
     image: "/assets/projects/project-2.png",
     video: "/assets/projects/project-2.mp4",
-    githubLink: "https://github.com/sarankumar74/AI-VoicetoVoice-Interview-Application"
+    githubLink: "https://github.com/sarankumar74/AI-VoicetoVoice-Interview-Application",
+    liveLink : "https://ai-voicetovoice-interview-application-1.onrender.com/"
   },
   {
     id: '3',
@@ -49,8 +50,7 @@ export const PROJECTS: Project[] = [
     description: "A natural language interface that translates user questions into executable SQL queries for seamless database access.",
     image: "/assets/projects/project-3.png",
     video: "/assets/projects/project-3.mp4",
-    githubLink: "https://github.com/sarankumar74/Text-to-MYSQL-Chat-Application",
-    liveLink: "https://example.com"
+    githubLink: "https://github.com/sarankumar74/Text-to-MYSQL-Chat-Application"
   },
   {
     id: '4',
@@ -78,8 +78,7 @@ export const PROJECTS: Project[] = [
     description: "A classification system used to predict whether a bank client will subscribe to a term deposit, optimizing marketing campaigns.",
     image: "/assets/projects/project-6.png",
     video: "/assets/projects/project-6.mp4",
-    githubLink: "https://github.com/sarankumar74/Bank-Term-Deposit-Subscription-Prediction",
-    liveLink: "https://example.com"
+    githubLink: "https://github.com/sarankumar74/Bank-Term-Deposit-Subscription-Prediction"
   },
   {
     id: '7',
@@ -107,8 +106,7 @@ export const PROJECTS: Project[] = [
     description: "Medical diagnostic tool using deep learning to classify Chest X-Rays for COVID-19 detection with high sensitivity.",
     image: "/assets/projects/project-9.png",
     video: "/assets/projects/project-9.mp4",
-    githubLink: "https://github.com/sarankumar74/Tea-Leaf-Disease-Classifier",
-    liveLink: "https://example.com"
+    githubLink: "https://github.com/sarankumar74/Tea-Leaf-Disease-Classifier"
   },
   {
     id: '10',
