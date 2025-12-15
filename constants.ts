@@ -124,18 +124,18 @@ export const PROJECTS: Project[] = [
 
 
 export const EDUCATION: EducationItem[] = [
-   {
+  {
     id: '1',
+    institution: "GUVI HCL",
+    degree: "Certification Courses",
+    stream: "Artificial Intelligence And Machine Learning Program",
+    years: "2025 - 2025"
+  },
+   {
+    id: '2',
     institution: "Muthayammlal College of Arts & Science",
     degree: "Bachelor of Science",
     stream: "Electronice & Communication",
     years: "2022 - 2025"
   },
-  {
-    id: '2',
-    institution: "Sree Vidhya Vihash Martic High School",
-    degree: "Higher Secondary School",
-    stream: "Maths-Computer",
-    years: "2020 - 2022"
-  }
 ];
