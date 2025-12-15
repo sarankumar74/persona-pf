@@ -30,7 +30,7 @@ export const PROJECTS: Project[] = [
     category: "GenAI",
     description: "A RAG-based QA system leveraging Gemini API to retrieve context and answer user queries with high accuracy.",
     image: "/assets/projects/project-1.png",
-    video: "/assets/projects/project-1.mp4",
+    video: "https://drive.google.com/file/d/18IxpYLDqDw8o0D9U1RdP7PF_0IDS5naA/preview",
     githubLink: "https://github.com/sarankumar74/RAG-Architecture-QA-Chats"
   },
   {
@@ -39,9 +39,8 @@ export const PROJECTS: Project[] = [
     category: "GenAI",
     description: "An interactive voice bot powered by LLMs to conduct mock interviews and provide real-time feedback.",
     image: "/assets/projects/project-2.png",
-    video: "/assets/projects/project-2.mp4",
-    githubLink: "https://github.com/sarankumar74/AI-VoicetoVoice-Interview-Application",
-    liveLink : "https://ai-voicetovoice-interview-application-1.onrender.com/"
+    video: "https://drive.google.com/file/d/1O4RpEX57NlSxggxToKE7SwdyFPiZW9Bf/preview",
+    githubLink: "https://github.com/sarankumar74/AI-VoicetoVoice-Interview-Application"
   },
   {
     id: '3',
@@ -49,7 +48,7 @@ export const PROJECTS: Project[] = [
     category: "GenAI",
     description: "A natural language interface that translates user questions into executable SQL queries for seamless database access.",
     image: "/assets/projects/project-3.png",
-    video: "/assets/projects/project-3.mp4",
+    video: "https://drive.google.com/file/d/1d3raW0MrKm9-v0lYlSDJjr00fW9j3oAd/preview",
     githubLink: "https://github.com/sarankumar74/Text-to-MYSQL-Chat-Application"
   },
   {
@@ -58,7 +57,7 @@ export const PROJECTS: Project[] = [
     category: "GenAI",
     description: "A specialized blog generation tool using Google's Gemma models to create structured and engaging content.",
     image: "/assets/projects/project-4.png",
-    video: "/assets/projects/project-4.mp4",
+    video: "https://drive.google.com/file/d/1a05lXT4NP5ODo0hRLOQbgqUXzvRpft5X/preview",
     githubLink: "https://github.com/sarankumar74/Gemma3-LLM-Blog-Generator-app"
   },
   // Machine Learning Projects
