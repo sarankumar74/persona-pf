@@ -130,9 +130,9 @@ export const EDUCATION: EducationItem[] = [
   },
    {
     id: '2',
-    institution: "Muthayammlal College of Arts & Science",
-    degree: "Bachelor of Science",
-    stream: "Electronice & Communication",
+    institution: "Muthayammal College of Arts And Science",
+    degree: "Bachelor's of Science",
+    stream: "Electronics And  Communication",
     years: "2022 - 2025"
   },
 ];
