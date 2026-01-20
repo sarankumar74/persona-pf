@@ -60,6 +60,7 @@ export const PROJECTS: Project[] = [
     video: "https://drive.google.com/file/d/1HZllHHdELGu6omQMgbs7QYRSDQ14qQ0L/preview",
     githubLink: "https://github.com/sarankumar74/InnoVites-AI"
   },
+
   // Machine Learning Projects
   {
     id: '5',
